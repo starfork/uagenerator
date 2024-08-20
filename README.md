@@ -1,4 +1,4 @@
-A ua maker
+An ua generator
 
 Inspire from https://github.com/gocolly/colly/blob/master/extensions/random_user_agent.go
 
